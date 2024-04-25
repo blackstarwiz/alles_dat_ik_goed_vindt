@@ -1,0 +1,15 @@
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\bin\Debug\net7.0\Een_Eigen_Huis.exe
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\bin\Debug\net7.0\Een_Eigen_Huis.deps.json
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\bin\Debug\net7.0\Een_Eigen_Huis.runtimeconfig.json
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\bin\Debug\net7.0\Een_Eigen_Huis.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\bin\Debug\net7.0\Een_Eigen_Huis.pdb
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.csproj.AssemblyReference.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.AssemblyInfoInputs.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.AssemblyInfo.cs
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.csproj.CoreCompileInputs.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\refint\Een_Eigen_Huis.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.pdb
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\Een_Eigen_Huis.genruntimeconfig.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\Een_Eigen_Huis\Een_Eigen_Huis\obj\Debug\net7.0\ref\Een_Eigen_Huis.dll

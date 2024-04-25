@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Een_Eigen_Huis/1.0.0": {
+        "runtime": {
+          "Een_Eigen_Huis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Een_Eigen_Huis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
