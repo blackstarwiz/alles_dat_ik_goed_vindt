@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="nl-BE" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="">
+  <title>OPDRACHT 1</title>
+  <link rel="stylesheet" href="css/style.css">
+
+  <script>
+      //Get the button
+      var mybutton = document.getElementById("myBtn");
+      
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          mybutton.style.display = "block";
+        } else {
+          mybutton.style.display = "none";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+      </script>
+
+</head>
+
+<body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <header id="home">
+    <a href="./index.html"><img src="images/logo.jpg" alt="Not found" id="logo"></a>
+    <ol>
+      <a href="" class="knop">Home</a>
+      <a href="" class="knop">Geschiedenis</a>
+      <a href="" class="knop">Galerij</a>
+      <a href="" class="knop">Contact</a>
+    </ol>
+  </header>
+
+  <main>
+    <h1>Het Centraal Station</h1>
+
+    <div><img src="./images/station1-lang.jpg" alt="Not found"></div>
+    <section id="gallery">
+
+      <img src="./images/station2-klein.jpg" alt="Not found" class="pic">
+      <img src="./images/station3-klein.jpg" alt="Not found" class="pic">
+      <img src="./images/station4-klein.jpg" alt="Not found" class="pic">
+    </section>
+
+
+    <section id="history">
+      <h2>Geschiedenis</h2>
+
+      <ul>
+        <li>punt 1</li>
+        <li>punt 2</li>
+        <li>punt 3</li>
+        <li>punt 4</li>
+      </ul>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a est id dui eleifend interdum. Donec
+        condimentum cursus leo eget sollicitudin. Maecenas feugiat urna eu neque molestie ullamcorper. Integer vel enim
+        augue. Nullam vehicula commodo ante, quis mattis nibh. Donec vehicula orci est, quis iaculis risus posuere id.
+        Nunc elementum eleifend mi, id malesuada est. Orci varius natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Mauris feugiat cursus odio, ac sodales metus hendrerit in. Fusce sed velit non dui
+        eleifend mollis. Praesent sed rutrum tellus.
+
+        Suspendisse tincidunt nisl tortor, sed dignissim nisl malesuada nec. Duis id mi lacus. Integer quis euismod
+        quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed mollis enim est, in bibendum urna
+        accumsan sit amet. Curabitur vel tincidunt velit, ac consequat ipsum. Nullam dignissim nisi a dolor pharetra
+        pulvinar. Aliquam nec nunc congue magna malesuada suscipit non non magna. Mauris eget ligula eu leo varius
+        efficitur ac dapibus sapien. Mauris varius nec dui sit amet maximus. In rhoncus felis ac purus dapibus, nec
+        congue ante pulvinar. Fusce dignissim rutrum nisl, vel semper elit aliquam sed. Suspendisse ut lacinia purus.
+        Proin sit amet quam non neque dictum viverra gravida at ex.</p>
+    </section>
+
+
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <form action="/action_page.php" method="get">
+        Name: <input type="text" oninvalid="alert('You must fill out the form!');" name="fname" required class="bloc">
+        Email: <input type="text" oninvalid="alert('You must fill out the form!');" name="fname" required class="bloc">
+        <div id="NaEma">
+          <input type="text" name="Bericht" id="bericht" placeholder="Bericht">
+          <input type="checkbox" name="akkoord met A.V." id="">akkoord met A.V.
+          <input type="submit" value="Verzenden" class="knop">
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <aside class="">
+    <h2>Zoeken</h2>
+    <input type="search" name="zoeken" id="">
+    <input type="submit" value="Zoeken" class="knop">
+    <img src="./images/aside.png" alt="Not found">
+    <h2>Wandeling</h2>
+    <ul>
+      <li>Wandeling 1</li>
+      <li>Wandeling 2</li>
+      <li>Wandeling 3</li>
+      <li>Wandeling 4</li>
+    </ul>
+  </aside>
+
+  <footer>
+    <p>website gamaakt door &copy; Meulemans Jason | Iot_groep_2</p>
+  </footer>
+</body>
+
+</html>
