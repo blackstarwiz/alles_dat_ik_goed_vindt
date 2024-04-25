@@ -1,0 +1,15 @@
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\bin\Debug\net7.0\GanzenBord_SinglePlayer.exe
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\bin\Debug\net7.0\GanzenBord_SinglePlayer.deps.json
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\bin\Debug\net7.0\GanzenBord_SinglePlayer.runtimeconfig.json
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\bin\Debug\net7.0\GanzenBord_SinglePlayer.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\bin\Debug\net7.0\GanzenBord_SinglePlayer.pdb
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.csproj.AssemblyReference.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.AssemblyInfoInputs.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.AssemblyInfo.cs
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.csproj.CoreCompileInputs.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\refint\GanzenBord_SinglePlayer.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.pdb
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\GanzenBord_SinglePlayer.genruntimeconfig.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\H16_Polymorfisme\GanzenBord_SinglePlayer\GanzenBord_SinglePlayer\obj\Debug\net7.0\ref\GanzenBord_SinglePlayer.dll
