@@ -1,0 +1,291 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1rem;
+  background-color: #e0e0e0;
+  color: #646464;
+}
+
+/* Andere gebruikte kleuren 
+blauw: #75a3ba
+groen: #246b44
+rood: #e74d2f
+geel: #f4b42f
+*/
+
+main div.fig {
+  height: 60vh;
+  border: 0.1rem solid #646464;
+  position: relative;
+}
+
+/* cadeautjes met betrekking tot fig_2 */
+
+main div.fig_2 {
+  background: linear-gradient(to right, #f4b42f 8rem, transparent 8rem);
+}
+
+main div.fig_2 p {
+  width: 3rem;
+  height: 3rem;
+  border: 0.25rem solid #e0e0e0;
+  position: absolute;
+  left: 2.5rem;
+  top: 1.5rem;
+}
+
+main div.fig_2 p.vakje_2 {
+  top: 6rem;
+}
+main div.fig_2 p.vakje_3 {
+  top: 10.5rem;
+}
+
+main div.fig_2 .geselecteerd {
+  background-color: #e0e0e0;
+}
+
+/* einde cadeautjes met betrekking tot fig_2 */
+/*header*/
+
+header > h1 {
+  padding: 1rem;
+  font-style: italic;
+}
+header > h1 > a {
+  font-style: normal;
+  display: block;
+  text-decoration: none;
+  color: #646464;
+  font-weight: 600;
+  font-size: 1.75rem;
+  padding-bottom: 0.5rem;
+}
+header > nav > ul > li {
+  border-top: solid #646464 0.1rem;
+  border-bottom: solid #646464 0.1rem;
+}
+header > nav > ul > li:nth-child(2) {
+  border: none;
+}
+
+header > nav > ul > li > a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  padding: 1rem;
+  color: #646464;
+}
+.sel {
+  background-color: #646464;
+  color: whitesmoke;
+}
+header > nav > ul > li > a:hover {
+  background-color: #646464;
+  color: whitesmoke;
+}
+/*end_header*/
+
+/*main*/
+/*section_1*/
+main section:nth-child(1) h2 {
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+main div.fig {
+  height: 35vh;
+  margin: 1rem;
+}
+
+main h3 {
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+html body main section div.fig.fig_1 {
+  overflow: hidden;
+}
+main section div.fig.fig_1 p.vakje_1 {
+  position: absolute;
+  background-color: #e74e2f;
+  height: 100%;
+  width: 100%;
+}
+main section div.fig.fig_1 p.vakje_2 {
+  display: inline-block;
+  position: relative;
+  top: 35%;
+  border: solid grey 0.1rem;
+  background-color: red;
+  height: 10vh;
+  width: 100vw;
+}
+
+main section div.fig.fig_1 p.vakje_3 {
+  position: relative;
+  top: 2vh;
+  left: 40vw;
+  background-color: gray;
+  border: solid black 0.1rem;
+  width: 15vw;
+  height: 10vh;
+  animation: 3s linear 5s infinite alternate mijnanimatie;
+}
+@keyframes mijnanimatie {
+  0% {
+  }
+  25% {
+    transform: translateX(calc(100vw - 56vw));
+  }
+  50% {
+  }
+  100% {
+    transform: translateX(calc(-100vw + 59vw));
+  }
+}
+
+/*end section_1*/
+body > main:nth-child(2) > h3:nth-child(2) {
+  z-index: 0;
+}
+/*section_2*/
+html body main section h3 {
+  padding: 1rem 1rem 0rem 1rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+/*end_section_2*/
+/*section_3*/
+html body main section div.fig.fig_3 {
+  background-color: #75a3ba;
+  display: grid;
+  grid-template-columns: 20% 20% 30% 15% 15%;
+  grid-template-rows: 20% 30% 20% 30%;
+}
+.fig_3 > p:nth-child(1) {
+  grid-column: 5;
+  background-color: #246b43;
+}
+.fig_3 > p:nth-child(2) {
+  grid-row: 3;
+  grid-column: 4/6;
+  background-color: #646464;
+}
+.fig_3 > p:nth-child(3) {
+  background-color: #646464;
+  grid-row: 4;
+  grid-column: 3/6;
+}
+/*end_section_3*/
+
+/*section_4*/
+section div.fig.fig_4 {
+  background: repeating-radial-gradient(
+    circle at 0%,
+    #e74e2f,
+    #e74e2f 100px,
+    #646464 100px,
+    #646464 200px,
+    #e0e0e0 200px,
+    #e0e0e0 300px,
+    #e74e2f 300px,
+    #e74e2f 400px
+  );
+}
+
+/*end_section_4*/
+
+/*section_5*/
+section div.fig.fig_5 p {
+  height: 100%;
+  width: 20%;
+  background-color: #646464;
+  clip-path: polygon(0 0, 0% 100%, 100% 100%);
+}
+
+/*end_section_5*/
+/*end_main*/
+
+/*footer*/
+
+footer {
+  border-top: solid #646464 0.1rem;
+}
+footer h2 {
+  padding: 1rem 1rem 0rem 1rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+footer p {
+  padding: 1rem;
+  line-height: 1.9rem;
+}
+/*end_footer*/
+
+/*Media Query 800px*/
+
+@media (min-width: 800px) {
+  /*header*/
+  header nav {
+    margin-top: 1rem;
+  }
+  header nav ul {
+    display: flex;
+    flex-direction: row;
+  }
+  header nav ul li {
+    text-align: center;
+    border: solid #646464 0.1rem;
+    width: 100%;
+  }
+  header > nav > ul > li:nth-child(2) {
+    border: solid #646464 0.1rem;
+    border-right: none;
+  }
+  /*end_header*/
+
+  /*main*/
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  main section:nth-child(1) {
+    grid-column: 1/3;
+  }
+  body > main:nth-child(2) > section:nth-child(3) {
+    grid-column: 1;
+  }
+  /*end_main*/
+
+  /*footer*/
+
+  footer {
+    display: grid;
+    grid-template-columns: 45% 55%;
+  }
+
+  /*end_footer*/
+}
+
+/*End_Media Query 800px*/
+
+/*Media Query 1200px*/
+@media (min-width: 1200px) {
+  header > h1 {
+    margin-left: 5rem;
+  }
+}
+/*End_Media Query 1200px*/
