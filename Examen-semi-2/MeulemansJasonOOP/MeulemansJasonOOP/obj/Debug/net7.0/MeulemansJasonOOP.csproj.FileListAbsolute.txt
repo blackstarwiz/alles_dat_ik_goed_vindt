@@ -1,0 +1,15 @@
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.csproj.AssemblyReference.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.AssemblyInfoInputs.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.AssemblyInfo.cs
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.csproj.CoreCompileInputs.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\bin\Debug\net7.0\MeulemansJasonOOP.exe
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\bin\Debug\net7.0\MeulemansJasonOOP.deps.json
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\bin\Debug\net7.0\MeulemansJasonOOP.runtimeconfig.json
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\bin\Debug\net7.0\MeulemansJasonOOP.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\bin\Debug\net7.0\MeulemansJasonOOP.pdb
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\refint\MeulemansJasonOOP.dll
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.pdb
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\MeulemansJasonOOP.genruntimeconfig.cache
+D:\Ap-Hogeschool-21-22\IT-SOF-simester-2\object-oriented-programming\22-23\Examen-semi-2\MeulemansJasonOOP\MeulemansJasonOOP\obj\Debug\net7.0\ref\MeulemansJasonOOP.dll
